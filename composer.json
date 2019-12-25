@@ -1,0 +1,18 @@
+{
+    "name": "rongbaojie/passport",
+    "description": "",
+    "type": "library",
+    "require": {
+        "php": ">=7.2.1",
+        "janfish/rpc": "1.9.1"
+    },
+    "authors": [
+        {
+            "name": "qilin",
+            "email": "qilin@janfish.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "license": "MIT"
+ 
+ }
